@@ -48,7 +48,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRL-SPR&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WRL-SPR&theme=github)
-![GitHub Snake Animation](https://github.com/WRL-SPR/WRL-SPR/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/WRL-SPR/WRL-SPR/output/github-contribution-grid-snake.svg)
+
 
 ---
 
