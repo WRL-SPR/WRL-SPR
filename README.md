@@ -44,18 +44,18 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WRL-SPR&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRL-SPR&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=사용자명&theme=github)
-![GitHub Snake Animation](https://github.com/사용자명/사용자명/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WRL-SPR&theme=github)
+![GitHub Snake Animation](https://github.com/WRL-SPR/WRL-SPR/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Project 1: AI_NaviGo](https://github.com/사용자명/AI_NaviGo)** - AI 기반 여행 플래너 (FastAPI + Spring Boot)  
-🔹 **[Project 2: DevOps Toolkit](https://github.com/사용자명/devops-toolkit)** - Ansible, Terraform, Kubernetes 관리 자동화  
-🔹 **[Project 3: Kubernetes Deployment Guide](https://github.com/사용자명/k8s-deployment-guide)** - 쿠버네티스 환경 구축 문서  
+🔹 **[Project 1: AI_NaviGo](https://github.com/WRL-SPR/AI_NaviGo)** - AI 기반 여행 플래너 (FastAPI + Spring Boot)  
+🔹 **[Project 2: DevOps Toolkit](https://github.com/WRL-SPR/devops-toolkit)** - Ansible, Terraform, Kubernetes 관리 자동화  
+🔹 **[Project 3: Kubernetes Deployment Guide](https://github.com/WRL-SPR/k8s-deployment-guide)** - 쿠버네티스 환경 구축 문서  
 
 ---
 
