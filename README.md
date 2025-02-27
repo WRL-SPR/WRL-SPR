@@ -33,8 +33,11 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WRL-SPR&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WRL-SPR&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WRL-SPR&theme=github)
+
+
 
 ## 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
