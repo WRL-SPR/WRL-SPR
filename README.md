@@ -63,4 +63,4 @@
 ## 📫 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://your-blog.com)
+[![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://[your-blog.com](https://kojin0921.tistory.com/))
